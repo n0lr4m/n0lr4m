@@ -1,3 +1,6 @@
-My name is Marlon and today is Tuesday, 2 March, 23:11 GMT-3.
-
-Currently workin on github runners self-hosted.
+### Hi there 👋
+* 👂 My name is Marlon.
+* 👩 Pronouns: He/Him.
+* 💬 Ask me about Ansible, and GitHub Self-Hosted Runners.
+* 📫 How to reach me: @marloncabrera on X.
+* ⚡ Fun fact: __n0lr4m__ is my name backwards.
